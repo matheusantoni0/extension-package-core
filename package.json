@@ -4,6 +4,7 @@
   "description": "The main generic extensions to leave your VSCode flying!",
   "version": "1.2.1",
   "publisher": "Atlantjs",
+  "repository": "https://gitlab.com/matheusantonio2081/extension-atlantjs-core",
   "icon": "icon.png",
   "__metadata": {
     "publisherDisplayName": "Atlantjs"
