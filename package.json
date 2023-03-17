@@ -1,20 +1,15 @@
 {
-  "name": "atlantjs-core",
-  "displayName": "Atlantjs Core",
-  "description": "The main generic extensions to leave your VSCode flying!",
-  "version": "1.2.6",
-  "publisher": "Atlantjs",
-  "repository": "https://gitlab.com/matheusantonio2081/extension-atlantjs-core",
-  "icon": "icon.png",
   "__metadata": {
     "publisherDisplayName": "Atlantjs"
-  },
-  "engines": {
-    "vscode": "^1.74.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "description": "The main generic extensions to leave your VSCode flying!",
+  "displayName": "Atlantjs Core",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
   "extensionPack": [
     "hancel.google-translate",
     "wmaurer.change-case",
@@ -44,6 +39,8 @@
     "donjayamanne.githistory",
     "eamodio.gitlens",
     "mhutchie.git-graph",
+    "MichaelCurrin.auto-commit-msg",
+    "Al3xCubed.annotation-lens-cubed",
     "vs-publisher-1464889.veracode-greenlight-for-vs-code",
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
@@ -53,6 +50,7 @@
     "oderwat.indent-rainbow",
     "andys8.jest-snippets",
     "geddski.macros",
+    "aliariff.auto-add-brackets",
     "mikestead.dotenv",
     "ms-azuretools.vscode-docker",
     "ms-vscode-remote.remote-wsl",
@@ -61,5 +59,10 @@
     "sleistner.vscode-fileutils",
     "ms-vsliveshare.vsliveshare",
     "ms-vsliveshare.vsliveshare-pack"
-  ]
+  ],
+  "icon": "icon.png",
+  "name": "atlantjs-core",
+  "publisher": "Atlantjs",
+  "repository": "https://gitlab.com/matheusantonio2081/extension-atlantjs-core",
+  "version": "1.2.7"
 }
