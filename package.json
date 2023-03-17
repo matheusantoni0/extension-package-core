@@ -24,10 +24,11 @@
     "sburg.vscode-javascript-booster",
     "yatki.vscode-surround",
     "EditorConfig.EditorConfig",
+    "jerrygoyal.shortcut-menu-bar",
+    "genieai.chatgpt-vscode",
     "VisualStudioExptTeam.intellicode-api-usage-examples",
     "VisualStudioExptTeam.vscodeintellicode",
     "christian-kohler.path-intellisense",
-    "wix.vscode-import-cost",
     "WallabyJs.quokka-vscode",
     "WallabyJs.wallaby-vscode",
     "sketchbuch.vsc-quokka-statusbar",
@@ -39,7 +40,6 @@
     "donjayamanne.githistory",
     "eamodio.gitlens",
     "mhutchie.git-graph",
-    "MichaelCurrin.auto-commit-msg",
     "Al3xCubed.annotation-lens-cubed",
     "vs-publisher-1464889.veracode-greenlight-for-vs-code",
     "esbenp.prettier-vscode",
@@ -64,5 +64,5 @@
   "name": "atlantjs-core",
   "publisher": "Atlantjs",
   "repository": "https://gitlab.com/matheusantonio2081/extension-atlantjs-core",
-  "version": "1.2.7"
+  "version": "1.2.8"
 }
