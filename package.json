@@ -20,9 +20,11 @@
     "streetsidesoftware.code-spell-checker",
     "streetsidesoftware.code-spell-checker-portuguese",
     "MS-CEINTL.vscode-language-pack-pt-BR",
+
     "WallabyJs.quokka-vscode",
     "WallabyJs.wallaby-vscode",
     "ms-vscode.vscode-js-profile-flame",
+
     "fayras.simple-new-file",
     "sleistner.vscode-fileutils",
     "ms-vsliveshare.vsliveshare",
@@ -41,7 +43,6 @@
     "alefragnani.project-manager",
     "alefragnani.Bookmarks",
     "JeremyFunk.hidefiles",
-    "ribragimov.tabster",
     "PKief.material-icon-theme",
 
     "Richibansoft.codeflea",
