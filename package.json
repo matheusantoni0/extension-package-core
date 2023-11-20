@@ -104,6 +104,6 @@
   "icon": "icon.png",
   "name": "atlantjs-core",
   "publisher": "Atlantjs",
-  "repository": "https://gitlab.com/matheusantonio2081/extension-atlantjs-core",
+  "repository": "https://github.com/matheusantoni0/extension-atlantjs-core",
   "version": "1.3.1"
 }
